@@ -28,10 +28,6 @@ Here are some ideas to get you started:
 
 ---
 
-
-
----
-
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -40,27 +36,24 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" titel="Figma" alt="Figma" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" titel="Express" alt="Express" width="40" height="40"/>
-  
-   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" titel="Heroku" alt="Heroku" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" titel="TypeScript" alt="TypeScript" width="40" height="40"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" titel="Express" alt="Express" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" titel="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" titel="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" titel="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" titel="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" titel="Express" alt="Express" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=afam-io&theme=dark&background=000000)](https://git.io/streak-stats)
+<div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afam-io)](https://github.com/anuraghazra/github-readme-stats)
-
-## &#x1f4c8; GitHub Stats
-[![Stats](https://github-readme-stats.vercel.app/api//?username=afam-io&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=afam-io&theme=github-light&date_format=n%2Fj%5B%2FY%5D&fire=0CDD07)](https://git.io/streak-stats)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afam-io&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+[![Stats](https://github-readme-stats.vercel.app/api//?username=afam-io&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+</div>
 
