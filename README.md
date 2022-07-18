@@ -1,4 +1,4 @@
-### Hi there my name is Afam and I am full stack software engineer.
+### Hi there my name is Afam and I'm a full stack web developer.
 
 <!--
 **afam-io/afam-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
