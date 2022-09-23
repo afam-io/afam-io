@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 <div>
   <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=afam-io&theme=github-light&date_format=n%2Fj%5B%2FY%5D&fire=0CDD07)](https://git.io/streak-stats)&nbsp; -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afam-io&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-[![Stats](https://github-readme-stats.vercel.app/api//?username=afam-io&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+ 
+ [![Stats](https://github-readme-stats.vercel.app/api//?username=afam-io&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 </div>
 
