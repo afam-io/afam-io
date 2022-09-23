@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
 
-
+### Find out more about me on social media
 <div id="badges">
   <a href="[your-linkedin-UR](https://www.linkedin.com/in/afam-okoh-64328876/)L">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -35,8 +36,8 @@ Here are some ideas to get you started:
 
 ---
 
-<div>
-  
+### ⚒️ Some of the tools I've used :
+<div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -58,9 +59,6 @@ Here are some ideas to get you started:
 
 <div>
   <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=afam-io&theme=github-light&date_format=n%2Fj%5B%2FY%5D&fire=0CDD07)](https://git.io/streak-stats)&nbsp; -->
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afam-io&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 [![Stats](https://github-readme-stats.vercel.app/api//?username=afam-io&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 </div>
