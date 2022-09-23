@@ -2,7 +2,7 @@
 
 ### I'm a junior full-stack software engineer looking for my first developer role. 
  
-##### 🌱 I’m currently learning:
+🌱 I’m currently learning:
   - How to build a CI/CD pipeline and use docker.
   - How to improve accessibility for front-end applications.
   - How to build decentralised applications with a solidity backend and a react front-end.
