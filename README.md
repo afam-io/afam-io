@@ -1,6 +1,6 @@
 ## Hi there my name is Afam. 👋🏿
 
-### I'm a junior full-stack software engineer looking for my first developer role. 
+### I'm a full-stack software engineer looking for my first developer role. 
  
 🌱 I’m currently learning:
   - How to build a CI/CD pipeline and use docker.
