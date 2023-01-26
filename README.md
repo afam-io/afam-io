@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ---
 
-  <!--
+  
 ### :fire: My Stats :
 
 <div>
@@ -65,5 +65,4 @@ Here are some ideas to get you started:
  
  [![Stats](https://github-readme-stats.vercel.app/api//?username=afam-io&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 </div>
- -->
 
