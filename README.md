@@ -2,10 +2,14 @@
 
 ### I'm a full-stack software engineer.
 🌱 I’m currently learning:
-  - How to build a CI/CD pipeline and use docker.
   - How to improve accessibility for front-end applications.
-  - How to build decentralised applications.
- 
+  - How to build decentralised applications in Sui using the Move programming language.
+
+🔭 I’m currently working on 
+  - A react native app
+    - to get a feel for RN 0.76 / Expo SDK 52
+    - to refamilarise myself with RN after working with it.
+  - A simple DAO implementation in move on Sui.
 <!--
 **afam-io/afam-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
